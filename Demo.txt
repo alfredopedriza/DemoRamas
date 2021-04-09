@@ -1,5 +1,5 @@
 Esto es una demo
 HEAD
-Mensaje asjsjdjfjf
+Esto es una prueba de conflicto
 Segundo contenido cambiado por Ilias
 b613ca66a477e468d9522b1409549409f01cce8b
