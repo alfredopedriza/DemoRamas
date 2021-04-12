@@ -2,6 +2,14 @@ Esto es una demo
 Espacio 
 Primera Línea de Merge (Línea de Prueba)
 Segunda Línea de Merge
-Tercera Línea de Merge
+Tercera Línea de Merge (Línea de Saludos)
 Cuarta Línea de Merge
 Quinta Línea de Merge
+
+Primera Línea de Fusión
+Segunda Línea de Fusión
+Tercera Línea de Fusión
+Cuarta Línea de Fusión
+Quinta Línea de Fusión (Línea sin cambios)
+Sexta Línea de Fusión
+
